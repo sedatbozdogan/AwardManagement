@@ -1,0 +1,7 @@
+C:\Users\sedat\OneDrive\Masaüstü\AwardManagement\AwardManagement\bin\Debug\AwardManagement.exe.config
+C:\Users\sedat\OneDrive\Masaüstü\AwardManagement\AwardManagement\bin\Debug\AwardManagement.exe
+C:\Users\sedat\OneDrive\Masaüstü\AwardManagement\AwardManagement\bin\Debug\AwardManagement.pdb
+C:\Users\sedat\OneDrive\Masaüstü\AwardManagement\AwardManagement\obj\Debug\AwardManagement.csprojAssemblyReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\AwardManagement\AwardManagement\obj\Debug\AwardManagement.csproj.CoreCompileInputs.cache
+C:\Users\sedat\OneDrive\Masaüstü\AwardManagement\AwardManagement\obj\Debug\AwardManagement.exe
+C:\Users\sedat\OneDrive\Masaüstü\AwardManagement\AwardManagement\obj\Debug\AwardManagement.pdb
